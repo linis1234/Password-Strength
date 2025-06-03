@@ -4,25 +4,25 @@ A password is a string of characters used to verify the identity of a user durin
 # Password strength checker
 __Tool used__:https://www.passwordmonster.com/  
 __Checked Passwords__:
-1. password  
+1. __password__  
 ![Screenshot 2025-06-03 214500](https://github.com/user-attachments/assets/1dda099b-96b0-4404-8e89-b695f8421f91)  
 
-2.Password12  
+2.__Password12__  
 ![image](https://github.com/user-attachments/assets/077be0df-b0e8-4881-a016-34d74e296d18)  
 
-3.Paaword$126  
+3.__Paaword$126__  
 ![image](https://github.com/user-attachments/assets/f815f869-97c0-4cb1-8d40-cec81065aae2)  
 
-4.Scaty@17  
+4.__Scaty@17__  
 ![image](https://github.com/user-attachments/assets/987ff749-1fdd-4491-a6c2-85d5d0adb527)  
 
-5.Rite#7857@1  
+5.__Rite#7857@1__  
 ![image](https://github.com/user-attachments/assets/63e95078-1e24-48db-8a62-3dd4bc2bf63d)  
 
-6.Weroy&085#16  
+6.__Weroy&085#16__  
 ![Screenshot 2025-06-03 215413](https://github.com/user-attachments/assets/d7c93fc2-ff8e-4098-a657-79d216e6b703)  
 
-7.Weroy&085#16!w0t  
+7.__Weroy&085#16!w0t__  
 ![Screenshot 2025-06-03 215604](https://github.com/user-attachments/assets/632dfb3f-f914-4cb9-ba47-4668a9ce0d01)         
 
 # Tips Learned from Evaluation 
