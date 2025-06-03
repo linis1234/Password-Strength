@@ -25,7 +25,7 @@ __Checked Passwords__:
 7.Weroy&085#16!w0t  
 ![Screenshot 2025-06-03 215604](https://github.com/user-attachments/assets/632dfb3f-f914-4cb9-ba47-4668a9ce0d01)         
 
-__Tips Learned from Evaluation__
+__Tips Learned from Evaluation__  
 -Length matters: The longer the password, the harder it is to crack.   
 
 -Avoid dictionary words: Even with numbers or symbols, common words are weak.  
