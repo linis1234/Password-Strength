@@ -1,7 +1,7 @@
 # Password-Strength  
 A password is a string of characters used to verify the identity of a user during the authentication process. Passwords are typically used in tandem with a username; they are designed to be known only to the user and allow that user to gain access to a device, application or website.  
 
-__Password strength checker__  
+#__Password strength checker__  
 __Tool used__:https://www.passwordmonster.com/  
 __Checked Passwords__:
 1. password  
